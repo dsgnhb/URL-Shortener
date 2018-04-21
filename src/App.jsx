@@ -1,5 +1,4 @@
 import React, {Component} from 'react';
-import {Router} from 'react-router-dom';
 import {createBrowserHistory} from 'history';
 import Home from './components/Home';
 
